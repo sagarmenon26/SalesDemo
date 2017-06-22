@@ -6,6 +6,8 @@ public class SecondGit {
 		
 		
 		System.out.println("This is secodn program");
+		
+		System.out.println("Git Hub Configuration  program");
 
 	}
 
